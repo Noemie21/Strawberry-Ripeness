@@ -118,12 +118,6 @@ Strawberry-Ripeness/
 
 ---
 
-## 👥 Authors
-
-- **Noémie Kpatenon** — [@Noemie21](https://github.com/Noemie21)
-- **Kristopher Kariste** — [@kkariste](https://github.com/kkariste)
-
----
 
 ## 📄 License
 
