@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PyTorch
+*.pt
+*.pth
+runs/
+
+# Data (too large for git)
+images/
+Fraises/
+*.png
+!assets/*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+*-Clustering/
+*.csv
+!train_labels.csv
+!val_labels.csv  
+!test_labels.csv
